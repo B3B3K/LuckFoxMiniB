@@ -20,15 +20,15 @@ Windows will typically assign the IP address `192.168.137.1` to the USB interfac
 ### 2. Configure the SBC (Ubuntu)  
 
 1. Set up the USB network interface (`usb0`):  
-   ```bash
-   sudo ip addr add 192.168.137.2/24 dev usb0  
-   sudo ip link set usb0 up  
-   sudo ip route add default via 192.168.137.1  
+   
+   - ip addr add 192.168.137.2/24 dev usb0  
+   - ip link set usb0 up  
+   - ip route add default via 192.168.137.1  
    ```  
 
 2. Configure DNS:  
    ```bash
-   echo "nameserver 8.8.8.8" | sudo tee /etc/resolv.conf  
+   echo "nameserver 8.8.8.8" | tee /etc/resolv.conf  
    ```  
 
 ---
