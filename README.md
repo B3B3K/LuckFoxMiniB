@@ -7,7 +7,7 @@
 
 1. Open **Control Panel > Network and Sharing Center > Change adapter settings**.  
 2. Right-click your internet-connected network (Wi-Fi or Ethernet) and select **Properties**.  
-3. Go to the **Sharing** tab, and check **Allow other network users to connect through this computer's Internet connection**.  
+3. Go to **Sharing** tab, and check **Allow other network users to connect through this computer's Internet connection**.  
 4. From the dropdown menu, select the USB network interface (e.g., "Remote NDIS").  
 5. Click **OK**.  
 
