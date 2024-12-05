@@ -1,7 +1,5 @@
 ```markdown
-# Share PC's (Windows 10) Internet with SBC via USB  
-
-This guide explains how to share your Windows PC's internet connection with a single-board computer (SBC) running Ubuntu, using just a USB cable.  
+# Share PC's (Windows 10) Internet with SBC via USB C
 
 ## Steps  
 
