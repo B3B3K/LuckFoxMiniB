@@ -66,7 +66,7 @@ Windows will typically assign the IP address `192.168.137.1` to the USB interfac
 
 ---
 
-truncate --size 5G rootfs.img && resize2fs rootfs.img #changes partition size and gives more space GOSH, WITH OUT REBUİLD IMAGE
+truncate --size 5G rootfs.img && resize2fs rootfs.img #changes partition size and gives more space... GOSH, WITH OUT REBUILD IMAGE
 -
 -
 ```
