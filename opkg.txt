@@ -6,3 +6,4 @@ export PATH=$PATH:/opt/bin
 new url:
 http://mirrors.nju.edu.cn/entware/armv7sf-k3.2/installer/
 (haves cmake on it)
+wget http://mirrors.nju.edu.cn/entware/armv7sf-k3.2/installer/generic.sh && chmod +x * && ./generic.sh
