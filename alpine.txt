@@ -1,0 +1,1 @@
+mount --bind /dev /sd/alpine/dev && mount --bind /proc /sd/alpine/proc && mount --bind /sys /sd/alpine/sys && mount --bind /dev/pts /sd/alpine/dev/pts
